@@ -1,2 +1,6 @@
 # Simulador_v2_5
-#>_<
+
+
+## IMPORTANTE
+
+El archivo "SimuladorV2-5.exe" y el archivo "SimuladorV2-5.pck" tienen que estar ne la mima carpeta
