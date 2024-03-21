@@ -3,6 +3,6 @@
 
 ## IMPORTANTE
 
-El archivo "SimuladorV2-5.exe" y el archivo "SimuladorV2-5.pck" tienen que estar enla misma carpeta
+El archivo "SimuladorV2-5.exe" y el archivo "SimuladorV2-5.pck" tienen que estar en la misma carpeta y con el mismo nombre (sin contar la extensión)
 
 No contiene dependencias externas
